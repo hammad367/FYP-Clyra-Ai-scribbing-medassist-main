@@ -1,0 +1,68 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+
+# env files
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# ML models and notebooks (contains secrets)
+ML model/
+Fine Tuning File/
+
+# FYP Report
+FYP Report Template/
+
+# UML Diagrams
+UML_DIAGRAMS.md
+
+# IDE
+.vscode/
+.idea/
+
+# Package manager
+package.json.update
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# API keys or secret config files
+*.key
+*.secret
+secrets.json
+config.local.*
+
+# Python cache (if any ML scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
