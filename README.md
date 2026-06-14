@@ -185,11 +185,8 @@ This is a Final Year Project. For questions or collaboration, please contact the
 
 ## Team
 
-- Seemab Anas (22P-9210)
 - Muhammad Hammad (22P-9206)
-- Muhammad Hussain (22P-9049)
 
-**Supervisor**: Mr. Shaazib Muhammad Khan
 
 ## License
 
